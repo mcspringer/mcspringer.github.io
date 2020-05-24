@@ -7,6 +7,9 @@ My wonderful son:
 
 ![Dean Springer](/img/Dean.png)
 
+Our First Programming Assignment
+[First Assignment](/coding/BasicGraphAssignment.ipynb)
+
 Some Free Porgramming Books:
 
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
