@@ -7,7 +7,9 @@ My wonderful son:
 
 ![Dean Springer](/img/Dean.png)
 
+Some Free Porgramming Books:
 
+[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 
 
