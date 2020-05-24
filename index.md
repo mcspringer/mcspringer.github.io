@@ -10,7 +10,7 @@ My wonderful son:
 Our First Programming Assignment
 [First Assignment](/coding/BasicGraphAssignment.ipynb)
 
-HTML Version: [First Assignment](/coding/Basic.html)
+HTML Version: [First Assignment](/coding/BasicGraphAssignment.html)
 
 Some Free Porgramming Books:
 
