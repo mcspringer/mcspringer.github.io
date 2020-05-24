@@ -3,6 +3,18 @@ title: Michael Springer's GitHub
 description: Just a foundation
 ---
 
+My wonderful son:
+
+![Dean Springer](/img/Dea.jpg)
+
+
+
+
+
+
+
+Saving the rest for later.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
