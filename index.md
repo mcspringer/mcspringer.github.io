@@ -10,6 +10,8 @@ My wonderful son:
 Our First Programming Assignment
 [First Assignment](/coding/BasicGraphAssignment.ipynb)
 
+HTML Version: [First Assignment](/coding/Basic.html)
+
 Some Free Porgramming Books:
 
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
