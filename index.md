@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Michael Springer's GitHub
+description: Just a foundation
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
