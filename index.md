@@ -5,7 +5,7 @@ description: Just a foundation
 
 My wonderful son:
 
-![Dean Springer](/img/Dea.jpg)
+![Dean Springer](/img/Dean.jpg)
 
 
 
